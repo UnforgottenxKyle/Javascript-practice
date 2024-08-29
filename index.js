@@ -167,7 +167,7 @@
 //   x = Math.floor(x / 10);
 // }
 
-// BINARY Search
+// BINARY SEARCH
 // const binarySort = (arr, target) => {
 //   let left = 0;
 //   let right = arr.length - 1;
